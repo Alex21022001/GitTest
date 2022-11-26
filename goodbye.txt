@@ -9,3 +9,5 @@ FIX
 /
 Some new feature
 
+Line from USER2
+
